@@ -3,7 +3,7 @@ Rotate the characters in a string by a given input and have the overflow appear 
 default inpStr = MyString, k = 2
 
 RUNNING INSTRUCTIONS:
-    - python q2.py [--inpStr InputString ] [--k valuToRotateBy]
+    - python q2.py [--inpStr InputString ] [--k valueToRotateBy]
 
 EXAMPLE:
     - python q2.py
