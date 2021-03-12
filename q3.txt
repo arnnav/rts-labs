@@ -1,2 +1,4 @@
-I like using tensorflow.
-The one thing I would want to change is that there is no back compatibility, having back compatibility would be great.
+I like using TensorFlow.
+The one thing I would want to change is that there is no back compatibility between versions, having back compatibility would be great.
+While getting into TensorFlow, a lot of codes were present in version 1.x and version 2.x. They were not compatible and it creates a hinderance. Moreover if one wants to use weights from a architecture from 1.x in 2.x or vice-versa then that is not possible and several work arounds have to be performed.
+Having a back comptability would help in Tensorflow.
